@@ -4,8 +4,8 @@ My name is Dominic and I am a **Softwaredeveloper** :computer:, **GIS Specialist
 
 ### 🚀 Latest Projects
 
-| | **Project Name** | **Description** | **Tech Stack** | **Status** | **Demo Link** |
-|-|------------------|-----------------|----------------|------------|---------------|
-| |[Tidytuesday](#) | My contributions to the weekly Tidytuesday Challenge | R, R Shiny, Quarto | In progress | [Demo Link](#) |
+| | **Project Name** | **Description** | **Tech Stack** | **Status** |
+|-|------------------|-----------------|----------------|------------|
+| |[TidyTuesday](#) | My contributions to the weekly TidyTuesday Challenge | R, R Shiny, Quarto | In progress |
 
 More to come soon...
